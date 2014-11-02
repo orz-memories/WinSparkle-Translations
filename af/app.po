@@ -1,0 +1,129 @@
+# WinSparkle
+# Copyright (c) 2009-2014 Vaclav Slavik
+# This file is distributed under the same license as the PACKAGE package.
+# Vaclav Slavik <vslavik@gmail.com>, 2009-2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-02 21:40+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: af\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.11.0\n"
+
+#: ui.cpp:182 ui.cpp:505
+msgid "Software Update"
+msgstr ""
+
+#: ui.cpp:364
+msgid "Release notes:"
+msgstr ""
+
+#: ui.cpp:390
+msgid "Skip this version"
+msgstr ""
+
+#: ui.cpp:396
+msgid "Remind me later"
+msgstr ""
+
+#: ui.cpp:401 ui.cpp:414
+msgid "Install update"
+msgstr ""
+
+#: ui.cpp:504
+#, c-format
+msgid "%s cannot be restarted."
+msgstr ""
+
+#: ui.cpp:507
+msgid "Make sure that you don't have any unsaved documents and try again."
+msgstr ""
+
+#: ui.cpp:514
+msgid "Launching the installer..."
+msgstr ""
+
+#: ui.cpp:566
+msgid "Failed to launch the installer."
+msgstr ""
+
+#: ui.cpp:588
+msgid "Checking for updates..."
+msgstr ""
+
+#: ui.cpp:590 ui.cpp:652 ui.cpp:729
+msgid "Cancel"
+msgstr ""
+
+#: ui.cpp:608
+msgid "You're up to date!"
+msgstr ""
+
+#: ui.cpp:615
+#, c-format
+msgid "%s %s is currently the newest version available."
+msgstr ""
+
+#: ui.cpp:628
+msgid "Close"
+msgstr ""
+
+#: ui.cpp:647
+msgid "Update Error!"
+msgstr ""
+
+#: ui.cpp:649
+msgid ""
+"An error occurred in retrieving update information; are you connected to the "
+"internet? Please try again later."
+msgstr ""
+
+#: ui.cpp:690
+#, c-format
+msgid "A new version of %s is available!"
+msgstr ""
+
+#: ui.cpp:696
+#, c-format
+msgid ""
+"%s %s is now available (you have %s). Would you like to download it now?"
+msgstr ""
+
+#: ui.cpp:727
+msgid "Downloading update..."
+msgstr ""
+
+#: ui.cpp:754
+#, c-format
+msgid "%s of %s"
+msgstr ""
+
+#: ui.cpp:783
+msgid "Ready to install."
+msgstr ""
+
+#: ui.cpp:923
+msgid "Check for updates automatically?"
+msgstr ""
+
+#: ui.cpp:933
+#, c-format
+msgid ""
+"Should %s automatically check for updates? You can always check for updates "
+"manually from the menu."
+msgstr ""
+
+#: ui.cpp:947
+msgid "Check automatically"
+msgstr ""
+
+#: ui.cpp:952
+msgid "Don't check"
+msgstr ""
