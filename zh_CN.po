@@ -3,127 +3,129 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Vaclav Slavik <vslavik@gmail.com>, 2009-2014.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: WinSparkle 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-02 21:40+0800\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Vaclav Slavik <vslavik@gmail.com>\n"
+"PO-Revision-Date: 2014-11-02 16:03+0800\n"
+"Last-Translator: Yeechan <wz.bluesnow@gmail.com>\n"
 "Language-Team: Vaclav Slavik <vslavik@gmail.com>\n"
-"Language: \n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1414915434.0\n"
 
 #: ui.cpp:182 ui.cpp:505
 msgid "Software Update"
-msgstr ""
+msgstr "软件更新"
 
 #: ui.cpp:364
 msgid "Release notes:"
-msgstr ""
+msgstr "发行备注："
 
 #: ui.cpp:390
 msgid "Skip this version"
-msgstr ""
+msgstr "跳过这个版本"
 
 #: ui.cpp:396
 msgid "Remind me later"
-msgstr ""
+msgstr "稍后提醒我"
 
 #: ui.cpp:401 ui.cpp:414
 msgid "Install update"
-msgstr ""
+msgstr "安装更新"
 
 #: ui.cpp:504
 #, c-format
 msgid "%s cannot be restarted."
-msgstr ""
+msgstr "无法重启 %s 。"
 
 #: ui.cpp:507
 msgid "Make sure that you don't have any unsaved documents and try again."
-msgstr ""
+msgstr "确保你已经保存了所有未保存的文档，稍后再试。"
 
 #: ui.cpp:514
 msgid "Launching the installer..."
-msgstr ""
+msgstr "运行安装程序中……"
 
 #: ui.cpp:566
 msgid "Failed to launch the installer."
-msgstr ""
+msgstr "无法运行安装程序。"
 
 #: ui.cpp:588
 msgid "Checking for updates..."
-msgstr ""
+msgstr "检查更新中……"
 
 #: ui.cpp:590 ui.cpp:652 ui.cpp:729
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: ui.cpp:608
 msgid "You're up to date!"
-msgstr ""
+msgstr "已经是最新版本了！"
 
 #: ui.cpp:615
 #, c-format
 msgid "%s %s is currently the newest version available."
-msgstr ""
+msgstr "%s %s 是目前可用的最新版本。"
 
 #: ui.cpp:628
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 #: ui.cpp:647
 msgid "Update Error!"
-msgstr ""
+msgstr "更新错误！"
 
 #: ui.cpp:649
 msgid ""
 "An error occurred in retrieving update information; are you connected to the "
 "internet? Please try again later."
-msgstr ""
+msgstr "获取更新信息的时候遇到了一个错误。你是否已经连接网络？请稍后再试。"
 
 #: ui.cpp:690
 #, c-format
 msgid "A new version of %s is available!"
-msgstr ""
+msgstr "有一个 %s 的新版本！"
 
 #: ui.cpp:696
 #, c-format
 msgid ""
 "%s %s is now available (you have %s). Would you like to download it now?"
-msgstr ""
+msgstr "%s %s 现在可以下载（你已经安装 %s）。你希望现在下载吗？"
 
 #: ui.cpp:727
 msgid "Downloading update..."
-msgstr ""
+msgstr "下载更新中……"
 
 #: ui.cpp:754
 #, c-format
 msgid "%s of %s"
-msgstr ""
+msgstr "%s（共 %s ）"
 
 #: ui.cpp:783
 msgid "Ready to install."
-msgstr ""
+msgstr "准备安装。"
 
 #: ui.cpp:923
 msgid "Check for updates automatically?"
-msgstr ""
+msgstr "自动检查更新？"
 
 #: ui.cpp:933
 #, c-format
 msgid ""
 "Should %s automatically check for updates? You can always check for updates "
 "manually from the menu."
-msgstr ""
+msgstr "%s 是否应当自动检查更新？你仍可以从菜单中手动检查更新。"
 
 #: ui.cpp:947
 msgid "Check automatically"
-msgstr ""
+msgstr "自动检查"
 
 #: ui.cpp:952
 msgid "Don't check"
-msgstr ""
+msgstr "不要检查"
