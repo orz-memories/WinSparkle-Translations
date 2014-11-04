@@ -3,127 +3,127 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Vaclav Slavik <vslavik@gmail.com>, 2009-2014.
 #
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: WinSparkle 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-02 21:40+0800\n"
-"PO-Revision-Date: 2014-11-04 14:37+0800\n"
-"Last-Translator: Yeechan Lu <wz.bluesnow@gmail.com>\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Vaclav Slavik <vslavik@gmail.com>\n"
 "Language-Team: Vaclav Slavik <vslavik@gmail.com>\n"
-"Language: zh_TW\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.10\n"
 
 #: ui.cpp:182 ui.cpp:505
 msgid "Software Update"
-msgstr "軟體更新"
+msgstr ""
 
 #: ui.cpp:364
 msgid "Release notes:"
-msgstr "更新事項："
+msgstr ""
 
 #: ui.cpp:390
 msgid "Skip this version"
-msgstr "跳過此版本"
+msgstr ""
 
 #: ui.cpp:396
 msgid "Remind me later"
-msgstr "暫緩提醒"
+msgstr ""
 
 #: ui.cpp:401 ui.cpp:414
 msgid "Install update"
-msgstr "安裝更新項目"
+msgstr ""
 
 #: ui.cpp:504
 #, c-format
 msgid "%s cannot be restarted."
-msgstr "%s 無法重新啟動。"
+msgstr ""
 
 #: ui.cpp:507
 msgid "Make sure that you don't have any unsaved documents and try again."
-msgstr "請確保所有檔案均已儲存，稍後再試一次。"
+msgstr ""
 
 #: ui.cpp:514
 msgid "Launching the installer..."
-msgstr "正在啟動安裝程式⋯"
+msgstr ""
 
 #: ui.cpp:566
 msgid "Failed to launch the installer."
-msgstr "啟動安裝程式時發生錯誤。"
+msgstr ""
 
 #: ui.cpp:588
 msgid "Checking for updates..."
-msgstr "正在檢查更新項目⋯"
+msgstr ""
 
 #: ui.cpp:590 ui.cpp:652 ui.cpp:729
 msgid "Cancel"
-msgstr "取消"
+msgstr ""
 
 #: ui.cpp:608
 msgid "You're up to date!"
-msgstr "你已有最新版本！"
+msgstr ""
 
 #: ui.cpp:615
 #, c-format
 msgid "%s %s is currently the newest version available."
-msgstr "%s %s 已是目前最新的版本。"
+msgstr ""
 
 #: ui.cpp:628
 msgid "Close"
-msgstr "關閉"
+msgstr ""
 
 #: ui.cpp:647
 msgid "Update Error!"
-msgstr "更新發生錯誤！"
+msgstr ""
 
 #: ui.cpp:649
 msgid ""
 "An error occurred in retrieving update information; are you connected to the "
 "internet? Please try again later."
-msgstr "擷取更新資訊時發生錯誤。是否已經連上網路？請稍後再試一次。"
+msgstr ""
 
 #: ui.cpp:690
 #, c-format
 msgid "A new version of %s is available!"
-msgstr "已有新版本的 %s 可供下載！"
+msgstr ""
 
 #: ui.cpp:696
 #, c-format
 msgid ""
 "%s %s is now available (you have %s). Would you like to download it now?"
-msgstr "%s %s 現在已可取得，您的版本則是 %s。您要現在下載嗎？"
+msgstr ""
 
 #: ui.cpp:727
 msgid "Downloading update..."
-msgstr "正在下載更新項目⋯"
+msgstr ""
 
 #: ui.cpp:754
 #, c-format
 msgid "%s of %s"
-msgstr "%s / %s"
+msgstr ""
 
 #: ui.cpp:783
 msgid "Ready to install."
-msgstr "準備安裝"
+msgstr ""
 
 #: ui.cpp:923
 msgid "Check for updates automatically?"
-msgstr "自動檢查更新項目？"
+msgstr ""
 
 #: ui.cpp:933
 #, c-format
 msgid ""
 "Should %s automatically check for updates? You can always check for updates "
 "manually from the menu."
-msgstr "%s 是否應自動檢查更新項目？您可隨時從選單手動檢查更新項目。"
+msgstr ""
 
 #: ui.cpp:947
 msgid "Check automatically"
-msgstr "自動檢查"
+msgstr ""
 
 #: ui.cpp:952
 msgid "Don't check"
-msgstr "不要檢查"
+msgstr ""
