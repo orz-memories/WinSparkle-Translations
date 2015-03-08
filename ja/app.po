@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: WinSparkle 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-02 21:40+0800\n"
-"PO-Revision-Date: 2014-11-04 14:42+0800\n"
+"PO-Revision-Date: 2015-03-09 01:38+0800\n"
 "Last-Translator: Yeechan Lu <wz.bluesnow@gmail.com>\n"
 "Language-Team: Vaclav Slavik <vslavik@gmail.com>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.10\n"
+"X-Generator: Poedit 1.7.4\n"
 
 #: ui.cpp:182 ui.cpp:505
 msgid "Software Update"
@@ -27,7 +27,7 @@ msgstr "リリースノート："
 
 #: ui.cpp:390
 msgid "Skip this version"
-msgstr "このバージョンはスキップ"
+msgstr "このバージョンをスキップします"
 
 #: ui.cpp:396
 msgid "Remind me later"
@@ -40,19 +40,19 @@ msgstr "アップデートをインストール"
 #: ui.cpp:504
 #, c-format
 msgid "%s cannot be restarted."
-msgstr ""
+msgstr "%s の再起動することはできません。"
 
 #: ui.cpp:507
 msgid "Make sure that you don't have any unsaved documents and try again."
-msgstr ""
+msgstr "保存されていない文書があり、再試行していないことを確認してください。"
 
 #: ui.cpp:514
 msgid "Launching the installer..."
-msgstr ""
+msgstr "セットアップが起動しています…"
 
 #: ui.cpp:566
 msgid "Failed to launch the installer."
-msgstr ""
+msgstr "セットアップが起動に失敗しました。"
 
 #: ui.cpp:588
 msgid "Checking for updates..."
@@ -73,7 +73,7 @@ msgstr "%s %s は現在入手できる最新バージョンです。"
 
 #: ui.cpp:628
 msgid "Close"
-msgstr ""
+msgstr "閉めます"
 
 #: ui.cpp:647
 msgid "Update Error!"
@@ -84,8 +84,8 @@ msgid ""
 "An error occurred in retrieving update information; are you connected to the "
 "internet? Please try again later."
 msgstr ""
-"アップデート情報の取得中にエラーが発生しました。are you connected to the "
-"internet? あとでやり直してください。"
+"アップデート情報の取得中にエラーが発生しました。インターネットに接続する？あ"
+"とでやり直してください。"
 
 #: ui.cpp:690
 #, c-format
