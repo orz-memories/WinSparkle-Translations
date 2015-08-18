@@ -11,4 +11,5 @@ build:
 	done
 
 commit:
-	git commit */WinSparkle/*.po */WinSparkle/*.mo -m "Update from Pomotodo's crowding project"
+	git add */WinSparkle/*.po */WinSparkle/*.mo
+	git commit -m "Update from Pomotodo's crowding project"
