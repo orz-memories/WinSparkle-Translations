@@ -5,120 +5,120 @@ msgstr ""
 "POT-Creation-Date: 2014-11-02 21:40+0800\n"
 "PO-Revision-Date: 2015-08-18 04:38-0400\n"
 "Last-Translator: sunoj <sunoj.mings@gmail.com>\n"
-"Language-Team: Chinese Simplified\n"
-"Language: zh_CN\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n\n"
 "X-Generator: crowdin.com\n"
 "X-Crowdin-Project: pomotodo\n"
-"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-Language: tr\n"
 "X-Crowdin-File: /WinSparkle/app.po\n"
 
 #: ui.cpp:182 ui.cpp:505
 msgid "Software Update"
-msgstr "软件更新"
+msgstr "Software Update"
 
 #: ui.cpp:364
 msgid "Release notes:"
-msgstr "更新信息："
+msgstr "Release notes:"
 
 #: ui.cpp:390
 msgid "Skip this version"
-msgstr "跳过这个版本"
+msgstr "Skip this version"
 
 #: ui.cpp:396
 msgid "Remind me later"
-msgstr "稍候再提示我"
+msgstr "Remind me later"
 
 #: ui.cpp:401 ui.cpp:414
 msgid "Install update"
-msgstr "安装更新"
+msgstr "Install update"
 
 #: ui.cpp:504
 #, c-format
 msgid "%s cannot be restarted."
-msgstr "无法重启 %s 。"
+msgstr "%s cannot be restarted."
 
 #: ui.cpp:507
 msgid "Make sure that you don't have any unsaved documents and try again."
-msgstr "确保你已经保存了所有未保存的文档，稍后再试。"
+msgstr "Make sure that you don't have any unsaved documents and try again."
 
 #: ui.cpp:514
 msgid "Launching the installer..."
-msgstr "正在启动安装程序…"
+msgstr "Launching the installer..."
 
 #: ui.cpp:566
 msgid "Failed to launch the installer."
-msgstr "无法运行安装程序。"
+msgstr "Failed to launch the installer."
 
 #: ui.cpp:588
 msgid "Checking for updates..."
-msgstr "正在检查更新…"
+msgstr "Checking for updates..."
 
 #: ui.cpp:590 ui.cpp:652 ui.cpp:729
 msgid "Cancel"
-msgstr "取消"
+msgstr "Cancel"
 
 #: ui.cpp:608
 msgid "You're up to date!"
-msgstr "你使用的就是最新版！"
+msgstr "You're up to date!"
 
 #: ui.cpp:615
 #, c-format
 msgid "%s %s is currently the newest version available."
-msgstr "%s %s 是目前可用的最新版本。"
+msgstr "%s %s is currently the newest version available."
 
 #: ui.cpp:628
 msgid "Close"
-msgstr "关闭"
+msgstr "Close"
 
 #: ui.cpp:647
 msgid "Update Error!"
-msgstr "更新错误！"
+msgstr "Update Error!"
 
 #: ui.cpp:649
 msgid "An error occurred in retrieving update information; are you connected to the internet? Please try again later."
-msgstr "获取更新信息的时候遇到了一个错误。你是否已经连接网络？请稍后再试。"
+msgstr "An error occurred in retrieving update information; are you connected to the internet? Please try again later."
 
 #: ui.cpp:690
 #, c-format
 msgid "A new version of %s is available!"
-msgstr "新版本的 %s 已经提供下载了！"
+msgstr "A new version of %s is available!"
 
 #: ui.cpp:696
 #, c-format
 msgid "%s %s is now available (you have %s). Would you like to download it now?"
-msgstr "%s %s 现在可以下载（你已经安装 %s）。你希望现在下载吗？"
+msgstr "%s %s is now available (you have %s). Would you like to download it now?"
 
 #: ui.cpp:727
 msgid "Downloading update..."
-msgstr "正在下载更新…"
+msgstr "Downloading update..."
 
 #: ui.cpp:754
 #, c-format
 msgid "%s of %s"
-msgstr "%s / %s"
+msgstr "%s of %s"
 
 #: ui.cpp:783
 msgid "Ready to install."
-msgstr "可以开始安装了"
+msgstr "Ready to install."
 
 #: ui.cpp:923
 msgid "Check for updates automatically?"
-msgstr "自动检查更新？"
+msgstr "Check for updates automatically?"
 
 #: ui.cpp:933
 #, c-format
 msgid "Should %s automatically check for updates? You can always check for updates manually from the menu."
-msgstr "%s 是否应当自动检查更新？你随时可以从菜单中手动检查更新。"
+msgstr "Should %s automatically check for updates? You can always check for updates manually from the menu."
 
 #: ui.cpp:947
 msgid "Check automatically"
-msgstr "自动检查"
+msgstr "Check automatically"
 
 #: ui.cpp:952
 msgid "Don't check"
-msgstr "不要检查"
+msgstr "Don't check"
 

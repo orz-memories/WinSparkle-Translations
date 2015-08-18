@@ -1,21 +1,20 @@
-# WinSparkle
-# Copyright (c) 2009-2014 Vaclav Slavik
-# This file is distributed under the same license as the PACKAGE package.
-# Vaclav Slavik <vslavik@gmail.com>, 2009-2014.
-#
 msgid ""
 msgstr ""
-"Project-Id-Version: WinSparkle 1.0\n"
+"Project-Id-Version: pomotodo\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-02 21:40+0800\n"
-"PO-Revision-Date: 2015-03-09 01:38+0800\n"
-"Last-Translator: Yeechan Lu <wz.bluesnow@gmail.com>\n"
-"Language-Team: Vaclav Slavik <vslavik@gmail.com>\n"
-"Language: ja\n"
+"PO-Revision-Date: 2015-08-18 04:37-0400\n"
+"Last-Translator: sunoj <sunoj.mings@gmail.com>\n"
+"Language-Team: Japanese\n"
+"Language: ja_JP\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.7.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: pomotodo\n"
+"X-Crowdin-Language: ja\n"
+"X-Crowdin-File: /WinSparkle/app.po\n"
 
 #: ui.cpp:182 ui.cpp:505
 msgid "Software Update"
@@ -80,12 +79,8 @@ msgid "Update Error!"
 msgstr "アップデートエラー！"
 
 #: ui.cpp:649
-msgid ""
-"An error occurred in retrieving update information; are you connected to the "
-"internet? Please try again later."
-msgstr ""
-"アップデート情報の取得中にエラーが発生しました。インターネットに接続する？あ"
-"とでやり直してください。"
+msgid "An error occurred in retrieving update information; are you connected to the internet? Please try again later."
+msgstr "アップデート情報の取得中にエラーが発生しました。インターネットに接続する？あとでやり直してください。"
 
 #: ui.cpp:690
 #, c-format
@@ -94,11 +89,8 @@ msgstr "新しいバージョンの %s が入手できます！"
 
 #: ui.cpp:696
 #, c-format
-msgid ""
-"%s %s is now available (you have %s). Would you like to download it now?"
-msgstr ""
-"%s %s が入手できます（使用中のバージョンは %s です）。今すぐダウンロードしま"
-"すか？"
+msgid "%s %s is now available (you have %s). Would you like to download it now?"
+msgstr "%s %s が入手できます（使用中のバージョンは %s です）。今すぐダウンロードしますか？"
 
 #: ui.cpp:727
 msgid "Downloading update..."
@@ -119,12 +111,8 @@ msgstr "アップデートを自動で確認しますか？"
 
 #: ui.cpp:933
 #, c-format
-msgid ""
-"Should %s automatically check for updates? You can always check for updates "
-"manually from the menu."
-msgstr ""
-"%s のアップデートを自動で確認しますか？ アップデートはメニューから手動でいつ"
-"でも確認することができます。"
+msgid "Should %s automatically check for updates? You can always check for updates manually from the menu."
+msgstr "%s のアップデートを自動で確認しますか？ アップデートはメニューから手動でいつでも確認することができます。"
 
 #: ui.cpp:947
 msgid "Check automatically"
@@ -133,3 +121,4 @@ msgstr "自動で確認"
 #: ui.cpp:952
 msgid "Don't check"
 msgstr "確認しない"
+

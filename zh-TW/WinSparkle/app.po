@@ -1,21 +1,20 @@
-# WinSparkle
-# Copyright (c) 2009-2014 Vaclav Slavik
-# This file is distributed under the same license as the PACKAGE package.
-# Vaclav Slavik <vslavik@gmail.com>, 2009-2014.
-#
 msgid ""
 msgstr ""
-"Project-Id-Version: WinSparkle 1.0\n"
+"Project-Id-Version: pomotodo\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-02 21:40+0800\n"
-"PO-Revision-Date: 2014-11-04 14:42+0800\n"
-"Last-Translator: Yeechan Lu <wz.bluesnow@gmail.com>\n"
-"Language-Team: Vaclav Slavik <vslavik@gmail.com>\n"
+"PO-Revision-Date: 2015-08-18 04:38-0400\n"
+"Last-Translator: sunoj <sunoj.mings@gmail.com>\n"
+"Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.10\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: pomotodo\n"
+"X-Crowdin-Language: zh-TW\n"
+"X-Crowdin-File: /WinSparkle/app.po\n"
 
 #: ui.cpp:182 ui.cpp:505
 msgid "Software Update"
@@ -80,9 +79,7 @@ msgid "Update Error!"
 msgstr "更新發生錯誤！"
 
 #: ui.cpp:649
-msgid ""
-"An error occurred in retrieving update information; are you connected to the "
-"internet? Please try again later."
+msgid "An error occurred in retrieving update information; are you connected to the internet? Please try again later."
 msgstr "擷取更新資訊時發生錯誤。是否已經連上網路？請稍後再試一次。"
 
 #: ui.cpp:690
@@ -92,8 +89,7 @@ msgstr "已有新版本的 %s 可供下載！"
 
 #: ui.cpp:696
 #, c-format
-msgid ""
-"%s %s is now available (you have %s). Would you like to download it now?"
+msgid "%s %s is now available (you have %s). Would you like to download it now?"
 msgstr "%s %s 現在已可取得，您的版本則是 %s。您要現在下載嗎？"
 
 #: ui.cpp:727
@@ -115,9 +111,7 @@ msgstr "自動檢查更新項目？"
 
 #: ui.cpp:933
 #, c-format
-msgid ""
-"Should %s automatically check for updates? You can always check for updates "
-"manually from the menu."
+msgid "Should %s automatically check for updates? You can always check for updates manually from the menu."
 msgstr "%s 是否應自動檢查更新項目？您可隨時從選單手動檢查更新項目。"
 
 #: ui.cpp:947
@@ -127,3 +121,4 @@ msgstr "自動檢查"
 #: ui.cpp:952
 msgid "Don't check"
 msgstr "不要檢查"
+
